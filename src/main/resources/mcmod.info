@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "LetsModReboot",
+  "name": "LetsModReboot Mod",
+  "description": "First mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Jens Iggström"],
+  "credits": "The Forge and FML guys, for making this example, and pahimar",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

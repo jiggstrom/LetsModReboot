@@ -245,7 +245,7 @@ Details:
 [22:04:01] [Client thread/TRACE] [FML/]: Recursing into package com
 [22:04:01] [Client thread/TRACE] [FML/]: Recursing into package com.example
 [22:04:01] [Client thread/TRACE] [FML/]: Recursing into package com.example.examplemod
-[22:04:01] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.example.examplemod.ExampleMod) - loading
+[22:04:01] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (ExampleMod) - loading
 [22:04:01] [Client thread/TRACE] [examplemod/]: Parsed dependency info : [] [] []
 [22:04:01] [Client thread/INFO] [examplemod/]: Mod examplemod is missing the required element 'name'. Substituting examplemod
 [22:04:01] [Client thread/DEBUG] [FML/]: Examining directory main for potential mods
@@ -488,7 +488,7 @@ Details:
 [22:04:24] [Client thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
 [22:04:24] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0,001s
 [22:04:24] [Client thread/TRACE] [examplemod/examplemod]: Sending event FMLInitializationEvent to mod examplemod
-[22:04:24] [Client thread/INFO] [STDOUT/examplemod]: [com.example.examplemod.ExampleMod:init:18]: DIRT BLOCK >> tile.dirt
+[22:04:24] [Client thread/INFO] [STDOUT/examplemod]: [ExampleMod:init:18]: DIRT BLOCK >> tile.dirt
 [22:04:24] [Client thread/TRACE] [examplemod/examplemod]: Sent event FMLInitializationEvent to mod examplemod
 [22:04:24] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - examplemod took 0,009s
 [22:04:24] [Client thread/DEBUG] [FML/]: Bar Finished: Initialization took 0,010s
